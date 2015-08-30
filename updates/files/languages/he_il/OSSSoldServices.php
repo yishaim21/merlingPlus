@@ -1,0 +1,31 @@
+<?php
+$languageStrings = [ 
+	'Services' => 'שירותים',
+	'Potential' => 'פוטנציאל',
+	'Invoice' => 'חשבונית',
+	'OSSSoldServices' => 'שירותים נמכרים',
+	'SINGLE_OSSSoldServices' => 'שירות נמכר',
+	'LBL_INFORMATION' => 'מידע בלוק',
+	'Invoice number' => 'מס \'חשבונית',
+	'Number' => 'מספר',
+	'Assigned To' => 'שהוקצה ל',
+	'LBL_RODZAJUMOWY' => 'סוג של הסכם',
+	'LBL_ssservicesstatus' => 'סטטוס',
+	'Individual Agreement' => 'הסכם אישי',
+	'In service' => 'נתמך',
+	'Finished support' => 'תמיכה הופסקה',
+	'Product Name' => 'שם מוצר',
+	'Sub Category' => 'תת קטגוריה',
+	'Category' => 'קטגוריה',
+	'Date Sold' => 'תאריך המכירה',
+	'Date in Service' => 'תאריך סיום תמיכה',
+	'Description' => 'תיאור',
+	'LBL_DESCRIPTION_INFORMATION' => 'מידע תיאורים',
+	'LBL_CUSTOM_INFORMATION' => 'מידע מערכת',
+	'Where bought' => 'איפה קנה',
+	'Potential renewal' => 'לחדש מכירה',
+	'LBL_GENERATE_EXTENSION' => 'צור הארכה',
+	'LBL_ORDER_TIME' => 'זמן להזמין',
+];
+$jsLanguageStrings = [
+];

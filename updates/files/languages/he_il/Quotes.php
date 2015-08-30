@@ -1,0 +1,33 @@
+<?php
+$languageStrings = [ 
+	'LBL_GENERATE_QUOTES' => 'צור ציטוטים',
+	'Inventory Manager' => 'מנהל המלאי',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
+	'LBL_EXPORT_TO_PDF' => 'יצוא ל- PDF',
+	'LBL_QUOTE_INFORMATION' => 'פרטי ציטוט',
+	'LBL_RECORDS_LIST' => 'רשימת ציטוטים',
+	'LBL_SEND_MAIL_PDF' => 'שלח אי-מייל עם PDF',
+	'Quote No' => 'מספר ציטוט',
+	'Quote Stage' => 'שלב ציטוט',
+	'SINGLE_Quotes' => 'ציטוט',
+	'Valid Till' => 'בתוקף עד',
+	'Shipping' => 'משלוח',
+	'Total time [h]' => 'סה"כ זמן [ח]',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => ') הוסר מהמערכת. נסה להחליף אותו עם מוצר / שירות שונה.',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'מוצר / שירות הוסר מהמערכת. הסר אותו מהרשומה.',
+	'LBL_THIS' => 'מוצר / שירות (',
+	'Form of payment' => 'צורת תשלום',
+	'Transfer' => 'העברה',
+	'Cash' => 'מזומנים',
+	'PLL_WAITING_FOR_PREPARATION' => 'מספר העוקבים להכנה',
+	'PLL_INTERNAL_CONSULTATION_REQUIRED' => 'התייעצות פנימית נדרשת',
+	'PLL_EXTERNAL_CONSULTATION_REQUIRED' => 'התייעצות חיצונית הנדרשת',
+	'PLL_WAITING_FOR_CUSTOMERS_REPLY' => 'ממתין לתשובתו של הלקוח',
+	'PLL_IN_PREPARATION' => 'בהכנה',
+	'PLL_SENT_TO_ORGANIZATION' => 'נשלח לארגון',
+	'PLL_DECLINED' => 'נדחה',
+	'PLL_ACCEPTED' => 'התקבל',
+];
+$jsLanguageStrings = [
+	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'אנא הסר פריט השורה שנמחק',
+];

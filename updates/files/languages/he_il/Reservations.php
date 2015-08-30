@@ -1,0 +1,31 @@
+<?php
+$languageStrings = [ 
+	'SINGLE_Reservations' => 'הזמנה',
+	'Reservations' => 'הזמנות',
+	'LBL_MAIN_INFORMATION' => 'פרטי הזמנה',
+	'LBL_BLOCK' => 'זיקה',
+	'LBL_TOTAL_TIME' => 'סה"כ זמן',
+	'LBL_STATUS' => 'סטטוס',
+	'Assigned To' => 'שהוקצה ל',
+	'LBL_TITLE' => 'כותרת',
+	'LBL_START_DATE' => 'תאריך ההתחלה',
+	'LBL_END_DATE' => 'תאריך סיום',
+	'LBL_TIME_START' => 'שעת ההתחלה',
+	'LBL_END_TIME' => 'שעת סיום',
+	'LBL_NUM' => 'מספר',
+	'LBL_CALENDAR_VIEW' => 'לוח שנה',
+	'LBL_RESERVATIONS_TYPE' => 'סוג הזמנה',
+	'PLL_ACCEPTED' => 'לאישור',
+	'PLL_TO_APPROVAL' => 'התקבל',
+	'LBL_RELATEDA' => 'חברה',
+	'LBL_RELATEDB' => 'תהליך',
+	'LBL_TYPE' => 'סוג',
+	'LBL_MEETING_ROOMS' => 'חדרי ישיבות',
+	'LBL_EQUIPMENT' => 'ציוד',
+	'LBL_CARS' => 'מכוניות',
+];
+$jsLanguageStrings = [
+	'MSG_ERROR_NUMBER' => 'תווים מאושרים: [0-9]',
+	'JS_DATE_SHOULD_BE_GREATER_THAN' => 'תאריך סיום צריך להיות גדול יותר מתאריך ההתחלה',
+	'JS_HOURS_SHOULD_BE_SMALLER_THAN' => 'מספר השעות צריך להיות קטן יותר מ 24 שעות',
+];

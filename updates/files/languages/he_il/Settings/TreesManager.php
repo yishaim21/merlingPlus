@@ -1,0 +1,30 @@
+<?php
+$languageStrings = [ 
+	'LBL_ADD_RECORD' => 'הוסף',
+	'TreesManager' => 'עץ מנהל',
+	'LBL_TREES_MANAGER' => 'עץ מנהל',
+	'LBL_TREES_MANAGER_DESCRIPTION' => 'עץ תבנית מנהל',
+	'LBL_NO_RECORDS_FOUND' => 'אין תבניות עץ',
+	'LBL_EDIT_TEMPLATE_TREES' => 'תבנית עץ עריכה',
+	'LBL_CREATING_TEMPLATE_TREES' => 'ליצור תבנית עץ',
+	'LBL_NAME' => 'שם תבנית',
+	'LBL_MODULE' => 'מודול',
+	'LBL_ADD_ITEM_TREE' => 'הוספת פריט חדש',
+	'LBL_ADD_TO_TREES' => 'הוסף',
+	'LBL_SAVE' => 'שמור',
+	'LBL_SELECT_REPLACE_TREE_ITEM' => 'שינוי פריט עץ ל:',
+];
+$jsLanguageStrings = [
+	'JS_TREE_DELETED_SUCCESSFULLY' => 'תבנית עץ נמחקה בהצלחה',
+	'JS_JSTREE_CREATE' => 'הוסף',
+	'JS_JSTREE_RENAME' => 'שינוי שם',
+	'JS_JSTREE_REMOVE' => 'מחק',
+	'JS_JSTREE_CCP' => 'עריכה',
+	'JS_JSTREE_CUT' => 'Cut',
+	'JS_JSTREE_COPY' => 'העתק',
+	'JS_JSTREE_PASTE' => 'הדבק',
+	'JS_FIELD_CAN_NOT_BE_EMPTY' => 'שדה לא יכול להיות ריק',
+	'JS_NO_ITEM_SELECTED' => 'אין פריט נבחר',
+	'JS_YOU_CANNOT_DELETE_ALL_THE_ITEMS' => 'אתה לא יכול למחוק את כל הפריטים',
+	'JS_YOU_CANNOT_DELETE_PERENT_ITEM' => 'אתה לא יכול למחוק את פריט אב',
+];

@@ -1,0 +1,32 @@
+<?php
+$languageStrings = [ 
+	'LBL_CHOISE_AUTHORIZED' => 'תפקיד בחר',
+	'LBL_ADD_DASHBOARD_BLOCK' => 'להוסיף בלוק סיכום למודול',
+	'LBL_WIDTH' => 'רוחב',
+	'LBL_HEIGHT' => 'גובה',
+	'LBL_ADD_WIDGET' => 'יישומון',
+	'LBL_ADD_NOTEBOOK' => 'פנקס רשימות',
+	'LBL_ADD_MINILIST' => 'יישומון עם מסנן',
+	'LBL_SELECT_WIDGET' => 'יישומון בחר',
+	'LBL_CREATE_CUSTOM_FIELD' => 'הוספה ווידג\'ט הלוח',
+	'LBL_ADD_CONDITION' => 'להוסיף תפקיד',
+	'LBL_INVALID_DATA' => 'נתונים לא חוקיים',
+	'WidgetsManagement' => 'ניהול יישומון',
+	'LBL_WIDGETS_MANAGEMENT' => 'יישומונים מודול',
+	'LBL_WIDGETS_MANAGEMENT_DESCRIPTION' => '#VALUE!',
+	'LBL_MANDATORY_WIDGET' => 'יישומון חובה',
+	'LBL_WIDGET' => 'יישומונים',
+	'LBL_NUMBER_OF_RECORDS_DISPLAYED' => 'מספר רשומות מוצג',
+	'LBL_DEFAULT_FILTER' => 'מסנן ברירת מחדל',
+	'LBL_FILTERS_AVAILABLE' => 'מסננים זמינים',
+	'LBL_PLEASE_SELECT_ATLEAST_ONE_OPTION' => 'אנא בחר אפשרות אחת לפחות',
+	'LBL_VIEW_CONFIGURATION' => 'צפה בתצורה',
+];
+$jsLanguageStrings = [
+	'JS_BLOCK_ADDED' => 'בלוק נוספו בהצלחה',
+	'JS_CUSTOM_FIELD_ADDED' => 'יישומון נוספו בהצלחה לחסום',
+	'JS_CUSTOM_FIELD_DELETED' => 'יישומון נמחק בהצלחה',
+	'JS_CUSTOM_BLOCK_DELETED' => 'הבלוק נמחק בהצלחה',
+	'JS_FIELD_EMPTY' => 'השדה לא יכול להיות ריק',
+	'JS_FILTERS_AVAILABLE' => 'מסננים זמינים',
+];
