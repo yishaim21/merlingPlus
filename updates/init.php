@@ -121,25 +121,25 @@ class YetiForceUpdate{
 		
 		//layout
 		'layouts/vlayout/skins/glabal_style.css',
-		'layouts/vlayout/skins/login.css',
+		//'layouts/vlayout/skins/login.css',
 		'layouts/vlayout/skins/twilight/style.css',
-		'libraries/bootstrap/css/bootstrap.css',
+		'libraries/bootstrap3/css/bootstrap.min.css',
 		
 		// reminder
-		'cron/SendReminder.service',
+		//'cron/SendReminder.service',
 		
 		// mail
-		'modules/Emails/mail.php',
+		//'modules/Emails/mail.php',
 		
 		// SMSNotifier
-		'layouts/vlayout/modules/Vtiger/SendSMSForm.tpl',
-		'modules/SMSNotifier/SMSNotifier.php',
-		'modules/SMSNotifier/actions/MassSaveAjax.php',
-		'modules/SMSNotifier/models/ISMSProvider.php',
-		'modules/SMSNotifier/models/Record.php',
-		'modules/SMSNotifier/providers/slng.php',
+		//'layouts/vlayout/modules/Vtiger/SendSMSForm.tpl',
+		//'modules/SMSNotifier/SMSNotifier.php',
+		//'modules/SMSNotifier/actions/MassSaveAjax.php',
+		//'modules/SMSNotifier/models/ISMSProvider.php',
+		//'modules/SMSNotifier/models/Record.php',
+		//'modules/SMSNotifier/providers/slng.php',
 		
-		'modules/Vtiger/helpers/Util.php',
+		//'modules/Vtiger/helpers/Util.php',
 		
 	);
 
