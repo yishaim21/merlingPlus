@@ -4843,7 +4843,7 @@ select[multiple].input-group-sm>.form-control,select[multiple].input-group-sm>.i
 
     .navbar-right {
         float: left!important;
-        margin-left: -15px;
+        margin-left: 15px;
     }
 
     .navbar-left~.navbar-right {
