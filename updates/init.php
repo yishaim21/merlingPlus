@@ -123,7 +123,7 @@ class YetiForceUpdate{
 		'layouts/vlayout/skins/glabal_style.css',
 		//'layouts/vlayout/skins/login.css',
 		'layouts/vlayout/skins/twilight/style.css',
-		'libraries/bootstrap3/css/bootstrap.min.css',
+		//'libraries/bootstrap3/css/bootstrap.min.css',
 		
 		// reminder
 		//'cron/SendReminder.service',
