@@ -10,6 +10,8 @@ $languageStrings = [
 	'PriceBook No' => 'מחיר ספר מספר',
 	'PriceBooks' => 'ספרי מחיר',
 	'SINGLE_PriceBooks' => 'מחיר הספר',
+	'yes' => 'כן',
+	'no' => 'לא',
 ];
 $jsLanguageStrings = [
 ];

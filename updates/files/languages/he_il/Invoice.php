@@ -1,7 +1,7 @@
 <?php
 $languageStrings = [ 
 	'Approved' => 'אושר',
-	'AutoCreated' => 'אישור נדרש',
+	'AutoCreated' => 'האישור נדרש',
 	'Created' => 'טיוטה',
 	'Cancel' => 'לבטל',
 	'Credit Invoice' => 'חשבונית אשראי',
@@ -14,9 +14,8 @@ $languageStrings = [
 	'LBL_EXPORT_TO_PDF' => 'יצוא ל- PDF',
 	'LBL_INVOICE_INFORMATION' => 'פרטי חשבונית',
 	'LBL_NOT_A_BUNDLE' => 'לא Bundle',
-	'LBL_RECEIVED' => 'התקבל',
+	'LBL_RECEIVED' => 'התקבלתי',
 	'LBL_RECORDS_LIST' => 'רשימת חשבונית',
-	'LBL_SEND_MAIL_PDF' => 'שלח אי-מייל עם PDF',
 	'LBL_SUB_PRODUCTS' => 'מוצרים תת',
 	'Paid' => 'בתשלום',
 	'Purchase Order' => 'הזמנה',
@@ -27,12 +26,13 @@ $languageStrings = [
 	'Potential' => 'הזדמנות',
 	'Invoice entered' => 'הוזמן',
 	'Derecognized' => 'נמחק',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => ') הוסר מהמערכת. נסה להחליף אותו עם מוצר / שירות שונה.',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'מוצר / שירות הוסר מהמערכת. הסר אותו מהרשומה.',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => ') הוסר ממערכת. נסה להחליף אותו עם מוצר / שירות שונה.',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'מוצר / שירות הוסר ממערכת. הסר אותו מהרשומה.',
 	'LBL_THIS' => 'מוצר / שירות (',
 	'Form of payment' => 'צורת תשלום',
 	'Transfer' => 'העברה',
 	'Cash' => 'מזומנים',
+	'Payment balance' => 'מאזן תשלומים',
 ];
 $jsLanguageStrings = [
 	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'אנא הסר פריט השורה שנמחק',

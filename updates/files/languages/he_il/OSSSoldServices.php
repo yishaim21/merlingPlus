@@ -1,5 +1,7 @@
 <?php
 $languageStrings = [ 
+	'LBL_RECORDS_LIST' => 'רשימה הרשומה',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'Services' => 'שירותים',
 	'Potential' => 'פוטנציאל',
 	'Invoice' => 'חשבונית',
@@ -9,7 +11,7 @@ $languageStrings = [
 	'Invoice number' => 'מס \'חשבונית',
 	'Number' => 'מספר',
 	'Assigned To' => 'שהוקצה ל',
-	'LBL_RODZAJUMOWY' => 'סוג של הסכם',
+	'LBL_RODZAJUMOWY' => 'סוג של סכם',
 	'LBL_ssservicesstatus' => 'סטטוס',
 	'Individual Agreement' => 'הסכם אישי',
 	'In service' => 'נתמך',
@@ -17,7 +19,7 @@ $languageStrings = [
 	'Product Name' => 'שם מוצר',
 	'Sub Category' => 'תת קטגוריה',
 	'Category' => 'קטגוריה',
-	'Date Sold' => 'תאריך המכירה',
+	'Date Sold' => 'תאריך מכירה',
 	'Date in Service' => 'תאריך סיום תמיכה',
 	'Description' => 'תיאור',
 	'LBL_DESCRIPTION_INFORMATION' => 'מידע תיאורים',

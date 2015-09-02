@@ -1,6 +1,6 @@
 <?php
 $languageStrings = [ 
-	'CRM Applications' => 'יישומי CRM',
+	'CRM Applications' => 'יישומיי CRM',
 	'Software' => 'תוכנה',
 	'Hardware' => 'חומרה',
 	'LBL_SUMMARY' => 'סיכום זמן עבודה',
@@ -14,11 +14,11 @@ $languageStrings = [
 	'LBL_RECORDS_LIST' => 'רשימת שירותים',
 	'LBL_SERVICE_INFORMATION' => 'פרטי שירות',
 	'LBL_MORE_CURRENCIES' => 'יותר מטבעות',
-	'LBL_PRICES' => 'מחירי שירות',
+	'LBL_PRICES' => 'מחירי השירות',
 	'LBL_PRICE' => 'מחיר',
-	'LBL_RESET_PRICE' => 'מחיר איפוס',
+	'LBL_RESET_PRICE' => 'מחיר האיפוס',
 	'LBL_RESET' => 'איפוס',
-	'LBL_ADD_TO_PRICEBOOKS' => 'הוסף לPriceBooks',
+	'LBL_ADD_TO_PRICEBOOKS' => 'הוסף ל PriceBooks',
 	'Service Name' => 'שם שירות',
 	'Service Active' => 'פעיל',
 	'Service Category' => 'קטגוריה',

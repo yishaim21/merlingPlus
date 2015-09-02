@@ -5,9 +5,10 @@ $languageStrings = [
 	'LBL_OTHER' => 'אחר',
 	'LBL_INFO' => 'מידע',
 	'LBL_TYPE' => 'סוג',
-	'LBL_TICKET_STATUS_INFO' => 'סטטוסים קביעת כרטיס שנסגרו',
+	'LBL_TICKET_STATUS_INFO' => 'סטטוסי קביעת כרטיס שנסגר',
 	'LBL_SAVE_CONFIG_OK' => 'שינויים נשמרו',
 	'LBL_SAVE_CONFIG_ERROR' => 'שינויים נשמרו.',
+	'SupportProcesses' => 'תהליכי תמיכה',
 ];
 $jsLanguageStrings = [
 ];

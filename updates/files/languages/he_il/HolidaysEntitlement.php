@@ -6,7 +6,7 @@ $languageStrings = [
 	'LBL_CUSTOM_INFORMATION' => 'מידע מערכת',
 	'LBL_YEAR' => 'שנה',
 	'LBL_DAYS' => 'מספר החגים',
-	'LBL_EMPLOYEE' => 'עובדים',
+	'LBL_EMPLOYEE' => 'עובד',
 	'LBL_NUMBER' => 'מספר',
 ];
 $jsLanguageStrings = [

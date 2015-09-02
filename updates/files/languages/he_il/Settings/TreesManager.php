@@ -15,7 +15,7 @@ $languageStrings = [
 	'LBL_SELECT_REPLACE_TREE_ITEM' => 'שינוי פריט עץ ל:',
 ];
 $jsLanguageStrings = [
-	'JS_TREE_DELETED_SUCCESSFULLY' => 'תבנית עץ נמחקה בהצלחה',
+	'JS_TREE_DELETED_SUCCESSFULLY' => 'תבנית עץ נמחק בהצלחה',
 	'JS_JSTREE_CREATE' => 'הוסף',
 	'JS_JSTREE_RENAME' => 'שינוי שם',
 	'JS_JSTREE_REMOVE' => 'מחק',

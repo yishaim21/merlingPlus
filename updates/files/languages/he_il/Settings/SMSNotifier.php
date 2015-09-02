@@ -2,8 +2,8 @@
 $languageStrings = [ 
 	'Enter new data' => 'להזין נתונים חדשים',
 	'LBL_INFORMGRAD_ACCOUNT_NUMBER' => 'מספר חשבון',
-	'LBL_SMS_SENDER' => 'שולח',
-	'LBL_SMSPM_AUTH_HASH' => 'Hash Authentification',
+	'LBL_SMS_SENDER' => 'משולח',
+	'LBL_SMSPM_AUTH_HASH' => 'Authentification חשיש',
 	'LBL_SMS_TIME' => 'זמן (דקות)',
 	'No' => 'לא',
 	'Yes' => 'כן',
@@ -21,10 +21,10 @@ $languageStrings = [
 ];
 $jsLanguageStrings = [
 	'LBL_INFORMGRAD_ACCOUNT_NUMBER' => 'מספר חשבון',
-	'LBL_SMSPM_AUTH_HASH' => 'Hash Authentification',
+	'LBL_SMSPM_AUTH_HASH' => 'Authentification חשיש',
 	'LBL_SMS_TIME' => 'זמן (דקות)',
-	'LBL_SMS_SENDER' => 'שולח',
+	'LBL_SMS_SENDER' => 'משולח',
 	'LBL_DELETE_CONFIRMATION' => 'האם אתה בטוח, שאתה רוצה למחוק SMSNotifier תצורה זו?',
 	'JS_RECORD_DELETED_SUCCESSFULLY' => 'ספק SMS נמחק בהצלחה',
-	'JS_CONFIGURATION_SAVED' => 'תצורות ספק SMS נשמרו',
+	'JS_CONFIGURATION_SAVED' => 'תצורות ספק SMS נשמר',
 ];

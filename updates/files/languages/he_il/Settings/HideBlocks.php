@@ -1,7 +1,7 @@
 <?php
 $languageStrings = [ 
-	'HideBlocks' => 'הסתר בלוקים',
-	'LBL_HIDEBLOCKS' => 'הסתר בלוקים',
+	'HideBlocks' => 'סתר בלוקים',
+	'LBL_HIDEBLOCKS' => 'סתר בלוקים',
 	'LBL_HIDEBLOCKS_DESCRIPTION' => 'בחר בלוקים עם שדות להסתרה',
 	'LBL_BLOCK_LABEL' => 'בלוק',
 	'LBL_MODULE' => 'מודול',

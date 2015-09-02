@@ -1,7 +1,7 @@
 <?php
 $languageStrings = [ 
-	'OSSMail' => 'תיבת הדואר שלי',
+	'OSSMail' => 'תיבת דואר שלי',
 ];
 $jsLanguageStrings = [
-	'JS_ERROR_EMPTY' => 'כל השדות חייבים להסתיים',
+	'JS_ERROR_EMPTY' => 'כל שדות חייבים להסתיים',
 ];

@@ -1,7 +1,7 @@
 <?php
 $languageStrings = [ 
 	'ModTracker' => 'ModTracker',
-	'SINGLE_ModTracker' => 'ModTracker רשומה',
+	'SINGLE_ModTracker' => 'ModTracker רשום',
 ];
 $jsLanguageStrings = [
 ];

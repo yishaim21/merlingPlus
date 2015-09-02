@@ -5,7 +5,6 @@ $languageStrings = [
 	'LBL_VENDOR_ADDRESS_INFORMATION' => 'פרטי כתובת',
 	'LBL_VENDORS_ADD_TASK' => 'הוסף משימה',
 	'LBL_VENDORS_ADD_EVENT' => 'הוסף אירוע',
-	'LBL_SEND_MAIL_PDF' => 'שלח דואר PDF',
 	'300-Sales-Software' => '300-מכירות-תוכנה',
 	'301-Sales-Hardware' => '301-מכירות-חומרה',
 	'302-Rental-Income' => '302-השכרה-הכנסה',
@@ -13,7 +12,7 @@ $languageStrings = [
 	'304-Sales-Software-Support' => '304-מכירות-תוכנה-תמיכה',
 	'305-Sales Other' => '305-מכירות אחרות',
 	'306-Internet Sales' => 'מכירות 306-אינטרנט',
-	'307-Service-Hardware Labor' => 'עבודה 307-שירות-חומרה',
+	'307-Service-Hardware Labor' => 'עבודת 307-שירות-חומרה',
 	'308-Sales-Books' => '308-מכירות-ספרים',
 	'Email' => 'דוא"ל ראשי',
 	'GL Account' => 'חשבון GL',
@@ -30,7 +29,7 @@ $languageStrings = [
 	'LBL_LOCAL_NUMBER' => 'מספר משרדים',
 ];
 $jsLanguageStrings = [
-	'LBL_DELETE_CONFIRMATION' => 'מחיקת ספק זה תסיר PurchaseOrders קשור שלה. האם אתה בטוח שאתה רוצה למחוק את הספק הזה?',
-	'LBL_MASS_DELETE_CONFIRMATION' => 'מחיקת ספק (ים) תסיר הזמנות הרכש הקשורים אליה. האם אתה בטוח שאתה רוצה למחוק את הרשומות שנבחרו?',
+	'LBL_DELETE_CONFIRMATION' => 'מחיק ספק זה יסיר PurchaseOrders הקשור שלה. האם אתה בטוח שאתה רוצה למחוק את הספק הזה?',
+	'LBL_MASS_DELETE_CONFIRMATION' => 'מחיק ספק (ים) תסיר הזמנות רכש קשור אליה. האם אתה בטוח שאתה רוצה למחוק את הרשומות שנבחר?',
 	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'האם אתה בטוח שאתה רוצה למחוק?',
 ];
