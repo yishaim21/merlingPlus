@@ -126,6 +126,7 @@ class YetiForceUpdate{
 		//'libraries/bootstrap3/css/bootstrap.min.css',
 		'libraries/jquery/select2/select2.full.min.js',
 		'libraries/jquery/select2/select2-bootstrap.min.css',
+		'/libraries/jquery/chosen/chosen.bootstrap.min.css',
 		
 		// reminder
 		//'cron/SendReminder.service',
