@@ -73,7 +73,7 @@ $languageStrings = [
 	'LBL_LEGAL_FORM' => 'מבנה משפטי',
 ];
 $jsLanguageStrings = [
-	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'שם ארגון כבר Exists.Do אתה רוצה ליצור רשומה כפולה?',
+	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'שם ארגון כבר קיים,  אתה רוצה ליצור רשומה כפולה?',
 	'LBL_DELETE_CONFIRMATION' => 'מחיקת ארגון זה יסיר הזדמנויות הקשורים אליה וציטוטים. האם אתה בטוח שאתה רוצה למחוק את הארגון הזה?',
 	'LBL_MASS_DELETE_CONFIRMATION' => 'מחיקת ארגון זה (ים) יסיר הזדמנויות הקשורים אליה וציטוטים. האם אתה בטוח שאתה רוצה למחוק את הרשומות שנבחר?',
 	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'האם אתה בטוח שאתה רוצה למחוק?',

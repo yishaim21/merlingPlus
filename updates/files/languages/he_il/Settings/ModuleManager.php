@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'LBL_ERROR_MOVE_UPLOADED_FILE' => 'קובץ העבר שגיאה הועלתה',
 	'ModuleManager' => 'מנהל מודול',
-	'LBL_IMPORT_MODULE_FROM_FILE' => 'תבואו Bundle מקובץ',
+	'LBL_IMPORT_MODULE_FROM_FILE' => 'יבוא Bundle מקובץ',
 	'LBL_IMPORT_MODULE' => 'התקנה מתוך vtiger',
 	'LBL_IMPORTED_UPDATE' => 'מערכת עודכן בהצלחה.',
 	'LBL_IMPORTED_EXTENSION' => 'ארכה הותקן בהצלחה.',
@@ -45,7 +45,7 @@ $languageStrings = [
 	'LBL_ERROR_VERSION' => 'גרסה השגויה של מודול, __MODULEVERSION__ גרסת מודול אבל זה צריך להיות גדול יותר מ__ CRMVERSION__',
 	'LBL_ERROR_NO_DEFAULT_LANGUAGE' => 'מודול אינו מכיל שפת ברירת מחדל (__DEFAULTLANGUAGE__).',
 	'LBL_ERROR_NO_LAYOUT_FILE' => 'אין קבצים חכמים',
-	'LBL_IMPORT' => 'תבואו',
+	'LBL_IMPORT' => 'יבוא',
 	'LBL_TOO_SMALL_UPLOAD_LIMIT' => 'מגבלת העלאה קטנה מדי',
 	'LBL_TOO_SMALL_UPLOAD_LIMIT_DESC' => 'מגבלת העלאה קטנה מדי (% s), כך קובץ לא ניתן להעלות לשרת. מומלץ לבדוק את תצורת המערכת <a href="index.php?parent=Settings&module=ConfReport&view=Index"> Sprawdź konfigurację serwera </a>',
 	'LBL_CREATE_MODULE' => 'צור מודול',

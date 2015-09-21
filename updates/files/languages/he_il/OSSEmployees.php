@@ -1,15 +1,15 @@
 <?php
 $languageStrings = [ 
-	'OSSEmployees' => 'עובד',
+	'OSSEmployees' => 'עובדים',
 	'SINGLE_OSSEmployees' => 'עובד',
-	'LBL_INFORMATION' => 'פרטים עובדים',
-	'LBL_CONTACTS' => 'פרטי יצירת קשר',
+	'LBL_INFORMATION' => 'פרטי עובדים',
+	'LBL_CONTACTS' => 'פרטי איש קשר',
 	'LBL_PERMANENT_ADDRESS' => 'כתובת מגורים קבועה',
 	'LBL_CORRESPONDANCE_ADDRESS' => 'כתובת שילוח',
 	'No.' => 'מספר',
-	'Assigned To' => 'מוקצה ל',
+	'Assigned To' => 'משויך אל',
 	'LBL_EMPLOYEESTATUS' => 'סטטוס',
-	'LBL_NAME' => 'שם פרטים',
+	'LBL_NAME' => 'שם פרטי',
 	'LBL_LASTNAME' => 'שם משפחה',
 	'LBL_PESEL' => 'מספר זיהוי אישי',
 	'LBL_IDCARD' => 'תעודת זהות',
@@ -37,7 +37,7 @@ $languageStrings = [
 	'Recruiting' => 'גיוס',
 	'Employee' => 'מועסק',
 	'Inactive' => 'לא פעיל',
-	'Average daily working time' => 'זמן עבודה יומית ממוצעת',
+	'Average daily working time' => 'זמן עבודה יומית ממוצע',
 	'LBL_USER_EXISTS' => 'עובד כבר קיימים',
 ];
 $jsLanguageStrings = [

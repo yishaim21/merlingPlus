@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'OSSMail' => 'תיבת דואר שלי',
 	'OSSMail_manual' => 'מודול דואר',
-	'Roundcube config' => 'התצורה Roundcube',
+	'Roundcube config' => 'תצורת Roundcube',
 	'Cancel' => 'לבטל',
 	'MSG_DEL_WARN1' => 'אזהרה!',
 	'MSG_DEL_WARN2' => 'לאחר הסרת ההתקנה מודול אתה משוחרר כל נתונים ב- CRM לגבי מודול זה. עם זאת, לא יכול להיות עדיין נשאר קבצים ב:',
@@ -36,7 +36,7 @@ $languageStrings = [
 	'LBL_RC_smtp_log' => 'שמור את היומנים עבור הודעות שנשלח',
 	'LBL_RC_mail_pagesize' => 'מספר הודעות בתצוגת רשימה',
 	'LBL_RC_addressbook_pagesize' => 'מספר אנשי קשר בתצוגת רשימה',
-	'LBL_RC_prefer_html' => 'צג הודעות כמו HTML',
+	'LBL_RC_prefer_html' => 'הצג הודעות כמו HTML',
 	'LBL_RC_preview_pane' => 'אם חלונית תצוגה מקדימה מופעלת',
 	'LBL_RC_htmleditor' => 'הודעה בפורמט HTML',
 	'LBL_RC_draft_autosave' => 'לשמור באופן אוטומטי הודעה נוצר כל: (שניות)',
